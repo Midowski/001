@@ -1,1 +1,1 @@
-print("__Mido__")
+print("_Mido_")
