@@ -1,2 +1,2 @@
-for x in range(0,8):
-    print(x)
+for x in range(0,11):
+    print(x, end=",")
